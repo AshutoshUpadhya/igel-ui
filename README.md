@@ -22,7 +22,7 @@ We tried to use tkinter to develop a GUI first, since it's a python GUI framewor
 
 You can install the pre-release here from the repository. Just check the releases and you can download an executable version there.
 
-Otherwise, you can clone the repository and build the version yourself.
+Otherwise, you can clone the repository and build the version yourself by running `npm run dist`.
 
 ## Usage
 
@@ -44,4 +44,4 @@ I will demonstrate how to use the app by providing an example using the [**india
 
 If you wish to work on this app, you can start by opening an issue or feature/enhancement and describe what and why it will be helpful. You can clone the repo and make a pull request afterwards. I will review it asap.
 
-If you have experience with frontend dev & electron and you are serious about helping for the development of this project, then you can contact me and we can discuss your approaches and whether you want to maintain this project.
+If you have experience with frontend dev & electron and you are serious about helping in the development of this project, then you can contact me and we can discuss the approaches and whether you want to maintain this project.
