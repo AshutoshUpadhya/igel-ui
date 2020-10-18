@@ -74,13 +74,12 @@ function getEvaluationParams () {
 }
 
 function getPredictParams () {
-    alert("getting prediction params");
     let predictDataPath = document.getElementById('pred-data-path').files[0].path;
     let payload = {
         cmd: "predict",
         data_path: predictDataPath
     };
-    alert(`evaluation payload: ${JSON.stringify(payload)}`);
+    //alert(`evaluation payload: ${JSON.stringify(payload)}`);
     sendToPython(JSON.stringify(payload));
 }
 
