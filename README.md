@@ -38,7 +38,7 @@ I will demonstrate how to use the app by providing an example using the [**india
 
 - You can now evaluate the model:
 
-![evaluation](eval.gif)
+![evaluation](assets/eval.gif)
 
 ## Contribution
 
