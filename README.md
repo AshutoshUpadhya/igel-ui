@@ -30,15 +30,15 @@ I will demonstrate how to use the app by providing an example using the [**india
 
 - Train/Fit a model:
 
-![training example](assets/train.gif)
+![training example](./assets/train.gif)
 
 - After completion, the results can be found in the **model_results** folder in the current working directory:
 
-![training results](assets/train-res.gif)
+![training results](./assets/train-res.gif)
 
 - You can now evaluate the model:
 
-![evaluation](assets/eval.gif)
+![evaluation](./assets/eval.gif)
 
 ## Contribution
 
